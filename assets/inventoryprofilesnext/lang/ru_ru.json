@@ -566,5 +566,5 @@
     "inventoryprofiles.gui.editor.description.help.move.keys": "'WASD' или стрелки для перемещения",
     "inventoryprofiles.gui.editor.name.help.move.speed": "Быстрее",
     "inventoryprofiles.gui.editor.description.help.move.speed": "'Shift' + клавиши - быстрее",
-    "inventoryprofiles.profiles.created_new_saved": "Создан новый профиль 'Saved'..."
+    "inventoryprofiles.profiles.created_new_saved": "Новый профиль 'Сохранен'..."
 }
