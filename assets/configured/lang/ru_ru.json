@@ -56,6 +56,7 @@
     "configured.gui.update_error.unloaded": "Конфиг не загружен",
     "configured.gui.neoforge.players_kicked": "Все игроки будут отключены для применения изменений. Сохранить?",
     "configured.gui.neoforge.server_configs_updated": "Серверные конфиги обновлены. Перезайдите",
+    "configured.gui.unsupported_property": "Свойство не поддерживается. Отредактируйте файл конфигурации вручную, чтобы изменить этот параметр",
     "configured.validator.range_hint": "Допустимо от %s до %s (включительно)",
     "configured.validator.not_a_number": "Неверное числовое значение",
     "configured.parser.not_a_number": "Не является числом",

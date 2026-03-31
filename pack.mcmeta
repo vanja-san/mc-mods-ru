@@ -1,6 +1,14 @@
 {
   "pack": {
-    "pack_format": 64,
-    "description": "\u00A7fRussian translation for Minecraft mods. §8\u00A7o v1.0.0"
+    "description": {
+      "translate": "suotm.resource_pack.latest",
+      "fallback": "Russian translation for some mods (1.20.X+)",
+      "type": "translatable",
+      "color": "#2159b8"
+    },
+    "pack_format": 15,
+    "supported_formats": [15,84],
+    "min_format": 15,
+    "max_format": 84
   }
 }

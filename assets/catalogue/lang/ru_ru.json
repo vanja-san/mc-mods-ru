@@ -3,6 +3,8 @@
     "catalogue.gui.mod_list": "Моды",
     "catalogue.gui.search": "Поиск",
     "catalogue.gui.config": "Конфиг",
+    "catalogue.gui.website": "Сайт",
+    "catalogue.gui.submit_bug": "Есть ошибки",
     "catalogue.gui.open_mods_folder": "Открыть папку модов",
     "catalogue.gui.licenses": "Лицензия(и): %s",
     "catalogue.gui.authors": "Автор(ы): %s",
@@ -28,5 +30,7 @@
     "catalogue.gui.library_count": "%s библиотек(и)",
     "catalogue.gui.advanced_search.info": "Расширенные запросы поиска игнорируют активные фильтры",
     "catalogue.gui.show_dependencies": "Показать зависимости",
-    "catalogue.gui.show_dependents": "Показать зависящие моды"
+    "catalogue.gui.show_dependents": "Показать зависящие моды",
+    "catalogue.gui.missing_branding": "Отсутствует брендинг",
+    "catalogue.gui.missing_branding.desc": "Вы автор этого мода? Нажмите здесь, чтобы открыть руководство."
 }
