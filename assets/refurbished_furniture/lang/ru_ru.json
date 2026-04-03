@@ -588,7 +588,7 @@
     "gui.refurbished_furniture.experience_level": "%s/%s ур.",
     "gui.refurbished_furniture.experience_points": "%s ед.",
     "gui.refurbished_furniture.withdraw_experience": "Забрать опыт",
-    "gui.refurbished_furniture.requires_power": "Нужно энергии от %s",
+    "gui.refurbished_furniture.requires_power": "Требуется энергия %s",
     "subtitle.refurbished_furniture.package_open": "Шуршание картона",
     "subtitle.refurbished_furniture.chair_slide": "Скрип дерева",
     "subtitle.refurbished_furniture.doorbell_chime": "Звонок в дверь",
