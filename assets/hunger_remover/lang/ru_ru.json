@@ -1,0 +1,12 @@
+{
+  "text.config.hunger_remover.title": "Настройки Hunger Remover",
+  "text.config.hunger_remover.option.disableMod": "Отключить мод",
+  "text.config.hunger_remover.option.eatInstantly": "Мгновенное поедание",
+  "text.config.hunger_remover.option.modifyMaxFoodStackCount": "Изменить макс. размер стака еды",
+  "text.config.hunger_remover.option.maxFoodStackCount": "Макс. размер стака еды",
+  "text.config.hunger_remover.option.cantSprint": "Нельзя бежать",
+  "text.config.hunger_remover.option.hideHungerBar": "Скрыть шкалу голода",
+  "text.config.hunger_remover.option.moveArmorBarToHungerBar": "Перенести шкалу брони на шкалу голода",
+  "text.config.hunger_remover.option.replaceAllHungerWithPoison": "Заменить весь голод отравлением",
+  "text.config.hunger_remover.option.replaceHungerFromFoodWithPoison": "Заменить голод от еды отравлением"
+}

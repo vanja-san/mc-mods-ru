@@ -1,0 +1,29 @@
+{
+    "modmenu.nameTranslation.locator_lodestones": "Locator Lodestones",
+    "modmenu.summaryTranslation.locator_lodestones": "Добавляет магнетиты на полоску локатора игрока.",
+    "modmenu.descriptionTranslation.locator_lodestones": "Добавляет магнетиты на полоску локатора игрока.\n\nКомпасы-магнетиты в инвентаре (включая мешочки) добавляют метки на полоску локатора.",
+
+    "configs.locator_lodestones.screen_title": "Настройки Locator Lodestones",
+    "configs.category.locator_lodestones.display": "Отображение",
+    "configs.category.locator_lodestones.color": "Цвет меток",
+
+    "configs.locator_lodestones.tab_display": "Поведение с Tab",
+    "configs.locator_lodestones.tab_display.tooltip": "Удерживание Tab принудительно показывает полоску локатора, обязательно для её появления, или не влияет (по умолчанию)",
+    "configs.locator_lodestones.tab_display.default": "По умолчанию",
+    "configs.locator_lodestones.tab_display.tab_forces": "Tab принудительно",
+    "configs.locator_lodestones.tab_display.tab_only": "Только с Tab",
+    "configs.locator_lodestones.tab_shows_names": "Tab показывает названия",
+    "configs.locator_lodestones.tab_shows_names.tooltip": "Показывать ли названия меток при удерживании Tab",
+    "configs.locator_lodestones.show_recovery_compasses": "Показывать компасы возрождения",
+    "configs.locator_lodestones.show_recovery_compasses.tooltip": "Создают ли компасы возрождения метки на полоске",
+    "configs.locator_lodestones.show_bundled_compasses": "Показывать компасы в мешочках",
+    "configs.locator_lodestones.show_bundled_compasses.tooltip": "Появляются ли компасы, лежащие в мешочках",
+    "configs.locator_lodestones.show_in_spectator": "Показывать в режиме наблюдателя",
+    "configs.locator_lodestones.show_in_spectator.tooltip": "Отображать ли метки компасов в режиме наблюдателя",
+    "configs.locator_lodestones.color_customization": "Настройка цвета",
+    "configs.locator_lodestones.color_customization.tooltip": "Можно ли менять цвет меток, указывая шестнадцатеричный код в названии предмета",
+    "configs.locator_lodestones.lodestone_color": "Цвет магнетита",
+    "configs.locator_lodestones.lodestone_color.tooltip": "Цвет меток компаса-магнетита по умолчанию. Можно указать «random» для случайного цвета",
+    "configs.locator_lodestones.recovery_color": "Цвет компаса возрождения",
+    "configs.locator_lodestones.recovery_color.tooltip": "Цвет меток компаса возрождения по умолчанию. Можно указать «random» для случайного цвета"
+}

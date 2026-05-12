@@ -1,0 +1,27 @@
+{
+  "key.category.minecraft.hiddenarmour": "Hidden Armour",
+  "key.category.hiddenarmour.controls": "Hidden Armour",
+  "key.hiddenarmour.toggle": "Скрыть/показать броню",
+  "key.hiddenarmour.enable": "Включить скрытие брони",
+  "key.hiddenarmour.disable": "Выключить скрытие брони",
+  "key.hiddenarmour.openGui": "Открыть настройки Hidden Armour",
+  "screen.hiddenarmour.title": "Настройки Hidden Armour",
+
+  "screen.hiddenarmour.category.main": "Отображение игрока",
+  "screen.hiddenarmour.category.horse": "Отображение мобов",
+
+  "button.hiddenarmour.toggleArmour.enabled": "Броня: скрыта",
+  "button.hiddenarmour.toggleArmour.disabled": "Броня: видна",
+
+  "button.hiddenarmour.toggleElytra.enabled": "Включая элитры: да",
+  "button.hiddenarmour.toggleElytra.disabled": "Включая элитры: нет",
+
+  "button.hiddenarmour.toggleGlint.enabled": "Сияние: скрыто",
+  "button.hiddenarmour.toggleGlint.disabled": "Сияние: видно",
+
+  "button.hiddenarmour.toggleNameTags.enabled": "Бирки: скрыты",
+  "button.hiddenarmour.toggleNameTags.disabled": "Бирки: видны",
+
+  "button.hiddenarmour.toggleHorseArmor.enabled": "Снаряжение лошади: скрыто",
+  "button.hiddenarmour.toggleHorseArmor.disabled": "Снаряжение лошади: видно"
+}

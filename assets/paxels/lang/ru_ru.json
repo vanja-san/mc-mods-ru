@@ -1,0 +1,20 @@
+{
+  "itemGroup.paxels": "Паксели",
+
+  "item.paxels.wooden_paxel": "Деревянный паксель",
+  "item.paxels.stone_paxel": "Каменный паксель",
+  "item.paxels.golden_paxel": "Золотой паксель",
+  "item.paxels.copper_paxel": "Медный паксель",
+  "item.paxels.iron_paxel": "Железный паксель",
+  "item.paxels.diamond_paxel": "Алмазный паксель",
+  "item.paxels.netherite_paxel": "Незеритовый паксель",
+
+  "advancements.paxels.story.stone_paxel.title": "Три в одном — из камня",
+  "advancements.paxels.story.stone_paxel.description": "Скрафтите каменный паксель",
+  "advancements.paxels.story.iron_paxel.title": "Три инструмента — одна рукоять",
+  "advancements.paxels.story.iron_paxel.description": "Скрафтите железный паксель",
+  "advancements.paxels.story.diamond_paxel.title": "Универсальность в чистом виде",
+  "advancements.paxels.story.diamond_paxel.description": "Скрафтите алмазный паксель",
+  "advancements.paxels.story.netherite_paxel.title": "Один инструмент, чтобы править всеми",
+  "advancements.paxels.story.netherite_paxel.description": "Улучшите алмазный паксель до незерита"
+}
